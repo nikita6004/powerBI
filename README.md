@@ -1,2 +1,2 @@
 # powerBI
-Poupulation dy continents data
+Poupulation by continents data
